@@ -45,8 +45,6 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/dashboard
 NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 
 GEMINI_API_KEY=
-RESEND_API_KEY=
-ARCJET_KEY=
 ```
 
 ### Start the development server:
