@@ -66,7 +66,7 @@ Contributions are welcome! To contribute:
    ```
 3. Make your changes and commit them:
    ```sh
-   git commit -m 'Add new feature'
+   git commit -m 'Add new features'
    ```
 4. Push to the branch:
    ```sh
