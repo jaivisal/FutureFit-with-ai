@@ -57,7 +57,8 @@ Open your browser and navigate to `http://localhost:3000`
 
 ## Contributing
 
-Contributions are welcome! To contribute:
+Contributions are welcome! Pls do contribute.
+To contribute:
 
 1. Fork the repository.
 2. Create a new branch:
